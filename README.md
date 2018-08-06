@@ -41,6 +41,6 @@ These scripts HAVE to be tweaked to suit your needs, like paths etc.
 
 You might want to retrain RDP with new data but that's for experts
 at the moment. The output from RDP could be changed to the BIOM format
-to be analyzed using the excellent R phylogeny module. It's up to you.
+to be analyzed using the excellent R phyloseq module. It's up to you.
 
 Ralf Stephan
